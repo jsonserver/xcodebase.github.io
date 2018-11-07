@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Corp Inc",
+  "launch_path": "/index.html",
+  "description": "Corporate Website",
+  "icons": {
+    "128": "/img/A_128.png"
+  },
+  "developer": {
+    "name": "PP",
+    "url": "http://xcodebase.github.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Corp Inc",
+      "description": "Corp Inc"
+    }
+  }
+}

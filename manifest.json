@@ -1,0 +1,30 @@
+{
+  "name": "Corp Inc",
+  "short_name": "Corp Inc",
+  "description": "Corp Inc Description",
+  "icons": [
+    {
+      "src": "img/A_128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "img/A_152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "img/A_144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "img/A_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2196F3"
+}
